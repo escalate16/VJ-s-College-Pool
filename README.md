@@ -18,4 +18,4 @@ Same pool as VJ's Pool (same rules, fees, payouts, confidence rounds, props, win
 - The fantasy game is NFL-only and is turned off in this edition.
 
 Note: the Top 25 and playoff matching reads ESPN's public feed. Check the first weeks and the playoff rounds, and add any missing game by hand.
-
+ok
